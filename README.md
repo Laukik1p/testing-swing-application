@@ -29,7 +29,7 @@ Following is a list of resources technologies used in this tutorial. These are s
 
 ## Tutorial
 
-<iframe src="//www.youtube.com/embed/naWIFcghJhg?list=PLP7XIoztemXTOGlS4BWhLCvi2VFDtI2my" width="810" height="456" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+[![Testing Swing Application HERE](//www.youtube.com/embed/naWIFcghJhg?list=PLP7XIoztemXTOGlS4BWhLCvi2VFDtI2my)](//www.youtube.com/embed/naWIFcghJhg?list=PLP7XIoztemXTOGlS4BWhLCvi2VFDtI2my)
 
 Please note that the videos are recorded in HD (1080p). Make sure to use the correct resolution to make the best out of these videos as shown below.
 
