@@ -1,0 +1,15 @@
+{
+  "key": {
+    "path": "getId()"
+  },
+  "test1": {
+    "1": [{
+      "path": "getName()",
+      "value": "Albert"
+    },
+    {
+      "path": "getAddress().getStreet()",
+      "value": "Somewhere"
+    }]
+  }
+}

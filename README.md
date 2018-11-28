@@ -41,5 +41,5 @@ Should you have any queries, please do not hesitate to contact me at: `albert@ja
 
 ## Recommended Books
 
-1. [Accelerate](https://itrevolution.com/book/accelerate/), by Nicole Forsgren, Jez Humble and Gene Kim
-1. [Refactoring: second edition](https://lnkd.in/dFQRFP9), by Martin Fowler
+1. [Accelerate](https://itrevolution.com/book/accelerate/) by Nicole Forsgren, Jez Humble and Gene Kim
+1. [Refactoring: second edition](https://lnkd.in/dFQRFP9) by Martin Fowler
